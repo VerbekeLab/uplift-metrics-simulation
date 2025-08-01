@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+xgboost
+lightgbm
+tqdm
+torch
+catenets
+econml
+scikit-uplift
+ipykernel
+joblib
+pyarrow
